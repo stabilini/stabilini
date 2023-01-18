@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react-redux, node-express**
 
-- 💛 I've learned all JS realted stuff at [SoyHenry](https://www.soyhenry.com/) bootcamp
+- 💛 I've learned all JS related stuff at [SoyHenry](https://www.soyhenry.com/) bootcamp
 
 - 📈 I developed and currently maintain an ERP app in **PHP/MySQL** for [Conservatorio Grassi](https://conservatoriograssi.com)
 
