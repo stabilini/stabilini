@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A passionate full stack web developer from Argentina currently available for working remotely</h3>
+<h3 align="center">A passionate full stack web developer from Argentina currently available for working part-time remotely</h3>
 
 <br />
 
 - 🔭 I’m currently working on developing [HenryGadget](https://pf-henrygadget.onrender.com/)
 
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m learning **Material UI**
 
 - 💬 Ask me about **react-redux, node-express**
 
-- 💛 I've learned all JS realted stuff at [SoyHenry](https://www.soyhenry.com/)
+- 💛 I've learned all JS realted stuff at [SoyHenry](https://www.soyhenry.com/) bootcamp
+
+- 📈 I developed and currently maintain an ERP app in **PHP/MySQL** for [Conservatorio Grassi](https://conservatoriograssi.com)
+
+- 🏫 I manage a **Moodle** site since 2012
 
 - 📫 How to reach me **stabilini@gmail.com**
 
