@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A passionate full stack web developer from Argentina currently available for working part-time remotely</h3>
+<h3 align="center">A passionate full stack web developer from Argentina currently available for working remotely</h3>
 
 <br />
 
