@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working on developing [HenryGadget](https://pf-henrygadget.onrender.com/)
 
-- 🌱 I’m learning **Material UI**
+- 🌱 I’m learning **Material UI** among other things
 
 - 💬 Ask me about **react-redux, node-express**
 
 - 💛 I've learned all JS related stuff at [SoyHenry](https://www.soyhenry.com/) bootcamp
 
-- 📈 I developed and currently maintain an ERP app in **PHP/MySQL** for [Conservatorio Grassi](https://conservatoriograssi.com)
+- 📈 I developed and currently maintain an ERP app in **PHP/MySQL** at [Conservatorio Grassi](https://conservatoriograssi.com)
 
-- 🏫 I manage a **Moodle** site since 2012
+- 🏫 I also manage both **Moodle** and **Wordpress** sites for our business 👆
 
-- 📫 How to reach me **stabilini@gmail.com**
+- 📫 Here's how to contact me: **stabilini@gmail.com**
 
-- ⚡ Fun fact **I am an architect and I serve in the Argentina Air Force.**
+- ⚡ Fun fact... **I am an architect and I serve in the Argentina Air Force**
 
 <br />
 <h3 align="center">Connect with me</h3>
