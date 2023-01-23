@@ -19,17 +19,6 @@
 
 - ⚡ Fun fact... **I am an architect and I serve in the Argentina Air Force**
 
-<br />
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/nstabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nstabilini" height="30" width="40" /></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://linkedin.com/in/nicolas-stabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-stabilini" height="30" width="40" /></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://instagram.com/nicostabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicostabilini" height="30" width="40" /></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<!-- <a href="https://www.youtube.com/c/stabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stabilini" height="30" width="40" /></a>&nbsp;&nbsp;|&nbsp;&nbsp; -->
-<a href="https://www.hackerrank.com/stabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stabilini" height="30" width="40" /></a>
-</p>
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=stabilini&label=Profile%20views&color=0e75b6&style=flat" alt="stabilini" /> </p>
 <!-- <div align="center">
   <a href="https://paypal.me/stabilini" target="_blank" style="display: inline-block;">
       <img
@@ -44,6 +33,7 @@
       />
   </a>
 </div>  -->
+<br />
 
 ## My Skill Set
 
@@ -72,7 +62,6 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
  
 </div>
-
 <br />
 
 ## Some useless fun stats 😎
@@ -88,6 +77,18 @@
 
 </div>
 
+<br />
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/nstabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nstabilini" height="30" width="40" /></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://linkedin.com/in/nicolas-stabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-stabilini" height="30" width="40" /></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://instagram.com/nicostabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicostabilini" height="30" width="40" /></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<!-- <a href="https://www.youtube.com/c/stabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stabilini" height="30" width="40" /></a>&nbsp;&nbsp;|&nbsp;&nbsp; -->
+<a href="https://www.hackerrank.com/stabilini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stabilini" height="30" width="40" /></a>
+</p>
+<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=stabilini&label=Profile%20views&color=0e75b6&style=flat" alt="stabilini" /> </p>
+<br />
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stabilini&show_icons=true&locale=en&layout=compact" alt="stabilini" /></p>
 
