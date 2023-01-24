@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on developing [HenryGadget](https://pf-henrygadget.onrender.com/)
 
-- 🌱 I’m learning **Material UI** among other things
+- 🌱 I’m learning **Solidity** among other things
 
 - 💬 Ask me about **react-redux, node-express**
 
