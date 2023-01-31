@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on developing [HenryGadget](https://pf-henrygadget.onrender.com/)
 
-- 🌱 I’m learning **Solidity** among other things
+- 🌱 I’m learning **Typescript** and **Solidity** among other things
 
-- 💬 Ask me about **react-redux, node-express**
+<!-- - 💬 Ask me about **react-redux, node-express** -->
 
 - 💛 I've learned all JS related stuff at [SoyHenry](https://www.soyhenry.com/) bootcamp
 
