@@ -3,13 +3,15 @@
 
 <br />
 
-- 🔭 I’m currently working on developing [HenryGadget](https://pf-henrygadget.onrender.com/)
+- 🔭 I’m currently working on developing private apps for Conservatorio Grassi
 
 - 🌱 I’m learning **Typescript**, **NestJS** and **Solidity** among other things
 
 <!-- - 💬 Ask me about **react-redux, node-express** -->
 
 - 💛 I've learned all JS related stuff at [SoyHenry](https://www.soyhenry.com/) bootcamp
+
+- 🐍 Python and Jupyter Notebooks rocks!! 💪
 
 - 📈 I developed and currently maintain an ERP app in **PHP/MySQL** at [Conservatorio Grassi](https://conservatoriograssi.com)
 
