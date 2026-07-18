@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on developing private apps for Conservatorio Grassi
 
-- 🌱 I’m learning **Typescript**, **NestJS** and **Solidity** among other things
+- 🌱 I’m learning **AI**, **Python** and **Agents** among other things
 
 <!-- - 💬 Ask me about **react-redux, node-express** -->
 
